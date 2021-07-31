@@ -1,0 +1,54 @@
+class recursive refrence 
+null type is value type or refrence type
+TPL task splitting 
+TPL combining results 
+GetHashCode and equal comparison
+return CSV formatter in .webapi
+return streaming data or large data in webapi 
+IOC-unity conatiner vs DI
+openclosed principle example
+decorator pattren
+new way of singleton pattren
+staic constructor 
+
+C#
+Adavnce C#
+Datastructures 
+List Implemenation 
+Design Patterns
+Linq
+.net framework 4.5
+.net core
+.net web api
+MVC
+entity framework
+azure web apps hosting
+Sql 
+monogdb
+postgresql
+docker
+
+
+
+roles management in angualr UI
+authentication and auth in web api
+cluster and non cluster index
+garabage collection
+design pattern to handle toggle feature
+ienumerable vs iqueryable in c# ? which is faster
+Idisposable / gc.collect
+how to check api code has met standards
+how to kill hanged thread
+C colections
+
+call store proc in entity framewok
+store userid and passwod in entity framework
+
+https://angular.io/guide/file-structure
+https://www.smashingmagazine.com/2018/11/a-complete-guide-to-routing-in-angular/
+https://angular.io/guide/router
+https://fireship.io/lessons/sharing-data-between-angular-components-four-methods/
+https://www.c-sharpcorner.com/blogs/pass-data-between-component-to-another-component-in-angular
+
+bearer token vlaidation inangular and webapi
+guards in angular

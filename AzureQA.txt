@@ -1,0 +1,96 @@
+
+10yrs experience, ecomm domain
+Working on azure : azure data factory, databricks,azure apps
+azure CI/CD- 
+
+Candidate has fundamental knowledge of AZURE data bricks
+
+Candidate has good knowledge of SQL
+
+Candidate has no idea about azure concepts like cloud types,containers,K8s 
+
+Candidate has basic understanding of CI/CD tools
+
+Candidate is very weak at programming 
+
+
+
+Azure Sentinel Incident Bi-directional sync with ServiceNow
+Azure Sentinel Incident Bi-directional sync with ServiceNow
+
+
+Ideal Answer (5 star)
+Alert grouping and fusion​ Incident triaging and management​ An interactive investigation experience​ Orchestration and response using Logic Apps
+
+What Is Federation Root Database?
+What Is Federation Root Database?
+
+
+Ideal Answer (5 star)
+The federation root database is a SQL Azure database that contains metadata about the federations. It’s the first thing you need to create when setting up your own federation  example: 
+ CREATE DATABASE [fedRoot] COLLATE French_CI_AS (MAXSIZE = 100 GB, EDITION = 'business')
+
+What is profiling in Azure?
+What is profiling in Azure?
+
+
+Ideal Answer (5 star)
+Profiling is only a procedure for measuring the performance analysis of an application. It is normally done to guarantee that the application is sufficiently steady and can maintain overwhelming traffic.
+
+Visual Studio gives us different tools to do it by gathering the performance information from the application that likewise helps in troubleshooting issues.
+
+Once the profiling wizard is run, it sets up the execution session and collects the data of the sample.
+
+The profiling reports help in:
+
+Deciding the longest running strategies inside the application
+Measuring the execution time of every strategy in the call stack
+Assessing memory allocation
+
+Is it possible to create a Virtual Machine using Azure Resource Manager in a Virtual Network that was created using classic deployment?
+
+What are Fault Domains?
+
+Why is Azure Active Directory used?
+
+What is Azure Service Fabric?
+
+
+When using spark.read with a schema, does it require us to select all columns in i.e. a csv-file?
+When using spark.read with a schema, does it require us to select all columns in i.e. a csv-file? An example, what happens behind the scene if we were to 
+calculate an average of a integer column across regions in a string column in a file with 100.000.000 records and 200 columns wide and we only need info from 2 of the columns?
+
+
+Ideal Answer (5 star)
+So this depends on the storage type. CSVs you have to read the full row, as there's no way of identifying a vertical slice of data from that file. 
+If you use a columnar file such as Parquet then each column and be excluded as required.
+
+What is azure databricks?
+What is azure databricks?
+
+
+Ideal Answer (5 star)
+Azure Databricks is an Apache Spark-based analytics service optimized for the MS Azure cloud services platform is
+ designed with the originators of Apache Spark. 
+Moreover, it is associated with MS Azure for a one-click setup and an interactive working space that eases 
+collaboration within data scientists, data engineers, and business analysts
+
+How many active relationships can we have between two tables in Power Pivot data model?
+How many active relationships can we have between two tables in Power Pivot data model?
+
+How to setup onprem as an agent with Azure Devops to run some utility along with CI/CD Pipeline
+Explain the experiences which you involved in Azure Automation / Logic apps and Runbook? How to automate and enable autostart/shutdown of all VMs using Runbook?
+
+How to setup onprem as an agent with Azure Devops to run some utility along with CI/CD Pipeline
+
+3, Explain the experiences in OctopusDeploy and what kind of configuration / orchestration / automation done using this tool?
+
+4, What connector used in Logic Apps and what purposes?
+
+
+What is azure databricks?
+What is azure databricks?
+
+
+Ideal Answer (5 star)
+Azure Databricks is an Apache Spark-based analytics service optimized for the MS Azure cloud services platform is designed with the originators of Apache Spark. Moreover, it is associated with MS Azure for a one-click setup and an interactive working space that eases collaboration within data scientists, data engineers, and business analysts.
